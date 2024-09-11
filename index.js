@@ -80,11 +80,11 @@ console.log('Plugins installed successful ✅')
 console.log('WATSAPP CONNECTED 😻')
 
 let up = 
-`> QUEEN NIPUU 👸
+`> King darkdss 🧑‍💻
 _connected successful_ ✅
 *PREFIX* : ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://raw.githubusercontent.com/Pasidu403/DATABASE/main/user-data/4270ad6f5ca71c69c315bca5020fd9d9.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "94773824266@s.whatsapp.net", { image: { url: `` }, caption: up })
 
 }
 })

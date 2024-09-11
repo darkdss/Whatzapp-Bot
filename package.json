@@ -1,12 +1,12 @@
 {
-  "name": "QUEEN NIPUU",
+  "name": "darkdss",
   "version": "1",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name wabot",
-    "stop": "pm2 stop wabot",
-    "restart": "pm2 restart wabot"
+    "start": "pm2 start index.js --deep-monitoring --attach --name darkdss",
+    "stop": "pm2 stop darkdss",
+    "restart": "pm2 restart darkdss"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
